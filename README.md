@@ -1,1 +1,1 @@
-# ticket-booking-sql-assignment
+# ticket-booking-sql
